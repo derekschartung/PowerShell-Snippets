@@ -1,0 +1,1 @@
+reg add HKLM\SOFTWARE\Policies\Microsoft\Windows\WorkplaceJoin /v "BlockAADWorkplaceJoin" /t REG_DWORD /d 1
